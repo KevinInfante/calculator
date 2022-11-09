@@ -1,0 +1,39 @@
+button{
+    cursor: pointer;
+    width:50pt;
+    height: 50pt;
+    font-size: 20pt;
+    background-color: turquoise;
+    //background-color:rgb(26,188,156);
+}
+button:active{
+    background-color: yellow;
+}
+.eq{
+    background-color:rgb(0,0,200);
+    color: white;
+}
+.num{
+    background-color: rgb(255,165,0);
+    color: white;
+}
+.operator{
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
+
+div{ /*figure out how to center it later*/
+    margin: auto;
+    padding: 45pt;
+    height: 300pt;
+    width: 250pt;
+    align-content: center; /*think this does noth*/
+    text-align: center;
+    background-color: darkslategray;
+}
+#inputField{
+    width: 203pt;
+    height: 50pt;
+    font-size: 20pt;
+    text-align: right;
+}
