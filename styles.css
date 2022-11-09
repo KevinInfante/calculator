@@ -24,7 +24,8 @@ button:active{
 
 div{ /*figure out how to center it later*/
     margin: auto;
-    padding: 45pt;
+    margin-top:5%;
+    padding: 45pt 25pt;
     height: 300pt;
     width: 250pt;
     align-content: center; /*think this does noth*/
